@@ -1,0 +1,2 @@
+# potato-clicker
+POTATO
